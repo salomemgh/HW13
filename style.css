@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    margin: 0% auto;
+    margin-top: 250px;
+    margin-left: 500px;
+    background: #faf4ef;
+    border-radius: 0px 0px 0px 50px;
+    width: 340px;
+    height: 412px;
+}
+.text{
+    font-weight: 400;
+    font-size: 25px;
+    padding-top: 60px;
+    padding-right: 100px;
+    color: #4b4b4b;
+}
+.price{
+    font-weight: 400;
+    font-size: 20px;
+    padding-top: 1px;
+    padding-right: 160px;
+    color: #737373;
+}
+.photo{
+    width: 299px;
+    height: 299px;
+    margin-top: 15px;
+    padding-right: 10px;
+}
